@@ -1,0 +1,5 @@
+com\chenwei\ssmtest\dao\UserDao.class
+com\chenwei\ssmtest\service\LoginService.class
+com\chenwei\ssmtest\model\User.class
+com\chenwei\ssmtest\controller\LoginController.class
+com\chenwei\ssmtest\impl\LoginImpl.class
