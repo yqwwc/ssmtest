@@ -9,7 +9,7 @@
 <html>
 <head>
 
-    <title>tgit git   xiugaibug fsff</title>
+    <title>tgit</title>
 
 </head>
 <body>
